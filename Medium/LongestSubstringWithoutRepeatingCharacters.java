@@ -1,4 +1,4 @@
-class Solution {
+class LongestSubstring {
     public int lengthOfLongestSubstring(String s) {
         char[] charArray = s.toCharArray();
         int max = 0;
